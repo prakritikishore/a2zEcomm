@@ -1,6 +1,6 @@
 # a2zEcomm
 
-This is an ecommerce backend service. WIP
+This is an E-commerce backend service. WIP
 
 
 ## **Tech Stack**
